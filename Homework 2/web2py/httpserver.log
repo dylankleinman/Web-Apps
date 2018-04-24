@@ -842,3 +842,6 @@
 127.0.0.1, 2018-04-23 20:10:31, GET, /start/static/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2, HTTP/1.1, 304, 0.000342
 127.0.0.1, 2018-04-23 20:10:33, POST, /start/default/user/login, HTTP/1.1, 303, 0.031475
 127.0.0.1, 2018-04-23 20:10:33, GET, /start/default/index, HTTP/1.1, 200, 0.026976
+127.0.0.1, 2018-04-24 11:17:07, GET, /, HTTP/1.1, 303, 15.015993
+127.0.0.1, 2018-04-24 11:17:07, GET, /welcome/default/index, HTTP/1.1, 200, 0.184470
+127.0.0.1, 2018-04-24 11:17:15, GET, /start/default/index, HTTP/1.1, 200, 0.143096
